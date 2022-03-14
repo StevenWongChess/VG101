@@ -1,0 +1,1 @@
+g++ -Wall -Werror -pedantic -Wno-unused-result -Wno-deprecated-declarations -std=c++14 -o OpenGL main.cpp -framework OpenGL -framework GLUT
